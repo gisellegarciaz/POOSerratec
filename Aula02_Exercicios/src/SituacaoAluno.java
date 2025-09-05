@@ -1,3 +1,9 @@
+/*
+ 1) Criar uma classe com o nome SituacaoAluno. Faça um programa com duas variáveis nota1
+e nota2 com valor inicial definido. Calcule a média e caso o valor maior ou igual a 7 deverá ser
+exibida a mensagem “Aprovado”. Caso a média for menor que 7 “Reprovado” e se a media
+for igual 10 “Aprovado Parabéns”
+ */
 
 public class SituacaoAluno {
 	
