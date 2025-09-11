@@ -1,11 +1,25 @@
 package salarioFunc;
 
 import java.util.Scanner;
+import javax.swing.JOptionPane;
+import javax.swing.JFrame;
 
 public class MainSalarioFuncionarios {
 
+	ClasseSalarioFuncionarios f = new ClasseSalarioFuncionarios("Giselle", 40000.0);
+	
+	double mensagem = f.calcularSalarioLiquido();
 
-	public static void main(String[] args) {
+	JOptionPane.showMessageDialog(
+            null, 
+            mensagem, 
+            "Dados do Funcionário", 
+            JOptionPane.INFORMATION_MESSAGE
+        );
+}
+
+
+/*public static void main(String[] args) {
 	        
 	        // Cria um objeto Scanner para ler a entrada do usuário
 	        Scanner scanner = new Scanner(System.in);
@@ -29,6 +43,5 @@ public class MainSalarioFuncionarios {
 	        
 	        scanner.close();
 	    }
-}
-
-
+	    
+*/
