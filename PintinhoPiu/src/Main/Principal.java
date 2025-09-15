@@ -36,7 +36,7 @@ public class Principal {
 	        }
 	       
 	        
-	     // Agora, o loop principal para as outras estrofes (Galo, Galinha, etc.)
+	     // Loop principal para as outras estrofes (Galo, Galinha, etc.)
 	        for (i = 1; i < animais.size(); i++) {
 
 	            // Imprime a estrofe inicial "Lá em casa tinha..."
@@ -54,8 +54,16 @@ public class Principal {
 	            }
 	        }    
 	       
+	        
+	        
+	        
+	        
+	        
+	        
 	       
-            
+     
+	        
+	        
 	/*
 	// Estrofe do Pintinho (inicio)
 	        for (int i = 0; i < 2; i++) {
