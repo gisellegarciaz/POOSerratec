@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/22349311/download.txt)<img width="1920" height="700" alt="POO PintinhoPiu Capa-2" src="https://github.com/user-attachments/assets/43053165-1ab5-43b5-9868-723ccf2ddbaa" />
+<img width="1920" height="700" alt="POO PintinhoPiu Capa-2" src="https://github.com/user-attachments/assets/773f19d6-669d-44ca-9cef-d371bdf4e768" />
 
 Descrição:
 Trabalho individual da disciplina de POO, Serratec 2025.2.
