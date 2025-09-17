@@ -1,6 +1,7 @@
 package main;
 
 import java.util.Scanner;
+
 import java.time.LocalDate;
 import classes.Bebidas;
 import classes.Sanduiche;
@@ -56,8 +57,6 @@ public class FazendoPedido {
     }
 }	
 		
-
-
 
 	        /* Imprime o cardápio
 	        Pedido.imprimirCardapio();
