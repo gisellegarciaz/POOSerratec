@@ -5,16 +5,16 @@ public class TesteFuncionario {
 
     public static void main(String[] args) {
 
-        // Criar o primeiro objeto FuncionarioPublico
+        // Func1
         FuncionarioPublico funcionario1 = new FuncionarioPublico("Giselle", 10500.00, 2018);
 
-        // Criar o segundo objeto FuncionarioPublico
+        // Func2
         FuncionarioPublico funcionario2 = new FuncionarioPublico("Nairobi", 7200.50, 2020);
 
-        // Criar o terceiro objeto
+        // func3
         FuncionarioPublico funcionario3 = new FuncionarioPublico("Yoshi", 7200.50, 2021);
 
-        // Exibir os atributos de cada funcionário
+        // Exibe os atributos
         funcionario1.exibirAtributos();
         funcionario2.exibirAtributos();
         funcionario3.exibirAtributos();
