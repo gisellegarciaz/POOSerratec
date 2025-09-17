@@ -4,18 +4,18 @@ public class ClasseTryCatch {
 
 	public static void main(String[] args) {
 
-        // 1. Inicializa os dois arrays de inteiros
+        // Inicializa os dois arrays de inteiros
         int[] vetor1 = {1, 2, 3, 4, 5};
         int[] vetor2 = {3, 0, 2};
 
-        // 2. Determina o número de iterações do loop
+        // Número de iterações do loop
         // Usamos o comprimento do vetor menor para evitar o erro de 'ArrayIndexOutOfBoundsException'.
         int numIteracoes = Math.min(vetor1.length, vetor2.length);
 
         System.out.println("Iniciando o processo de divisão...");
         System.out.println("------------------------------------");
 
-        // 3. Loop 'for' para percorrer os arrays e realizar a divisão
+        // Loop 'for' para percorrer os arrays e realizar a divisão
         for (int i = 0; i < numIteracoes; i++) {
 
         	// O bloco 'try' contém o código que pode gerar uma exceção
