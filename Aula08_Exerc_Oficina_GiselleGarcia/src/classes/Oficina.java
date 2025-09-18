@@ -2,7 +2,8 @@ package classes;
 
 public interface Oficina {
 
-	double lavarVeiculo();
+	double lavarSimples();
+	double lavarEcologico();
     double trocarOleo();
     double revisao();
 	
