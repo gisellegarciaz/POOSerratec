@@ -2,9 +2,9 @@ package classes;
 
 public class FuncionarioPublico {
 
-	String nome;
-    double salario;
-    final int anoConcurso;
+	private String nome;
+	private double salario;
+	private final int anoConcurso;
 
     // Construtor
     public FuncionarioPublico(String nome, double salario, int anoConcurso) {
