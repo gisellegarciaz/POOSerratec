@@ -1,5 +1,5 @@
 
-<img width="1920" height="700" alt="POO MODAL Capa" src="https://github.com/user-attachments/assets/8931c8ba-77c9-4a4a-892c-d627683af116" />
+<img width="1920" height="700" alt="POO MODAL Capa-3" src="https://github.com/user-attachments/assets/80baa12f-8d37-469b-8297-f47f6531d0f5" />
 
 EXERCICIO INDIVIDUAL - TIC/SOFTWARE 2025.2 - POO ------ ALUNA: GISELLE P A GARCIA. 
 
