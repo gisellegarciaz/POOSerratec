@@ -8,11 +8,12 @@ public class TesteMaratona {
     public static void main(String[] args) {
     	
         
-        Maratona atleta1 = new AtletaAmador("Giselle", "F", 25, 1.65, true);
+        Maratona atleta1 = new AtletaAmador("Giselle", "F", 32, 1.65, true);
         Maratona atleta2 = new AtletaProfissional("Nairobi", "F", 7, 0.45, 3.0);
-        Maratona atleta3 = new AtletaAmador("Arthur", "M", 20, 1.75, false);
+        Maratona atleta3 = new AtletaAmador("Arthur", "M", 33, 1.75, false);
 
-        System.out.println("--- Situação dos Atletas ---");
+        System.out.println("\n======= MARATONA TERESOPOLIS RACE =======\n");
+        System.out.println("-------   Situação dos Atletas   --------\n");
         
  
         System.out.println(atleta1);
