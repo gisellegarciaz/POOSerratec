@@ -12,3 +12,4 @@ maratonista.  Deverá ser exibida a mensagem partipará ou não participará da 
 
 Instancie 3 atletas em uma classe com o nome TesteMaratona, exiba os dados do toString e chame o
 método verificaSituacao para saber se o atleta poderá ou não participar da competição.   
+    
